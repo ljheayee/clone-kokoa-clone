@@ -47,3 +47,11 @@
   display: block;
   margin-bottom: 10px;
 }
+
+.user-component__subtitle i {
+  color: tomato;
+  padding-left: 5px;
+}
+.user-component__collumn > i {
+  color: black;
+}
