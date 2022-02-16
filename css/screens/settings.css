@@ -1,0 +1,32 @@
+.settings-setting {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.settings-setting:nth-child(3) {
+  border-bottom: none;
+  padding-bottom: 50px;
+}
+.settings-setting i {
+  margin-right: 20px;
+  font-size: 22px;
+}
+.settings-setting-column:last-child {
+  opacity: 0.8;
+}
+.settings-setting:nth-child(4) {
+  border-top: 1px solid rgba(0, 0, 0, 0.4);
+  padding-top: 50px;
+}
+.settings-setting2 {
+  border-bottom: none;
+}
+.fa-n {
+  margin-left: 10px;
+  color: tomato;
+  font-size: x-small;
+}
